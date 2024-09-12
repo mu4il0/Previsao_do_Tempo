@@ -18,15 +18,15 @@ Um campo de input para a busca da cidade.
 Um botão com um ícone de lupa que dispara a busca de dados da cidade digitada.
 Uma área onde são exibidas as informações do clima, incluindo nome da cidade, temperatura, temperatura máxima e mínima, umidade e ícone de previsão.
 
-CSS
+<h2> CSS </h2>
 O CSS foi utilizado para criar um design limpo e moderno:
 
-Background: Imagem de fundo representando uma cidade, cobrindo toda a tela.
+<h3> Background: </h3> Imagem de fundo representando uma cidade, cobrindo toda a tela.
 Container: A caixa central onde as informações são exibidas tem bordas arredondadas, transparência e adaptação responsiva.
 Botão: O botão tem um design circular e muda de cor ao passar o mouse (hover).
 css
 
-JavaScript
+<h2> JavaScript </h2>
 O JavaScript é responsável por:
 
 Buscar os dados climáticos da cidade digitada pelo usuário, através da função buscarCidade(), que utiliza a API do OpenWeatherMap.
