@@ -1,4 +1,4 @@
-DevClub - Previsão do Tempo 🌤️
+#DevClub - Previsão do Tempo 🌤️
 Este projeto é uma aplicação simples de previsão do tempo, desenvolvida com HTML, CSS e JavaScript, que utiliza a API do OpenWeatherMap para fornecer informações climáticas em tempo real com base na cidade digitada pelo usuário.
 
 Funcionalidades 🛠️
@@ -32,3 +32,8 @@ O JavaScript é responsável por:
 Buscar os dados climáticos da cidade digitada pelo usuário, através da função buscarCidade(), que utiliza a API do OpenWeatherMap.
 Exibir as informações na tela como nome da cidade, temperatura atual, máxima e mínima, e a umidade, através da função colocarNaTela().
 Eventos: O botão de busca e a tecla Enter são configurados para acionar a função de busca.
+
+<img src="img/mobile.jpeg">
+<p>Minhas redes sociais:</p>
+<a href="https://www.linkedin.com/in/murilo-tavares-7b3bbb304/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a>
+<a href="https://www.instagram.com/murilo__tt/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-logo"></a>
