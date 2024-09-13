@@ -35,5 +35,5 @@ Eventos: O botão de busca e a tecla Enter são configurados para acionar a fun�
 
 <img src="assets/Previsao-Tempo.png">
 <p>Minhas redes sociais:</p>
-<a href="https://www.linkedin.com/in/murilo-tavares-7b3bbb304/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a>
+<a href="www.linkedin.com/in/murilo-tavares-de-moraes-7b3bbb304"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a>
 <a href="https://www.instagram.com/murilo__tt/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-logo"></a>
